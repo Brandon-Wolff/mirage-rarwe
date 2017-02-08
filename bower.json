@@ -1,5 +1,6 @@
 {
   "name": "mirage-rarwe",
   "dependencies": {
+    "bootstrap": "^3.3.7"
   }
 }
